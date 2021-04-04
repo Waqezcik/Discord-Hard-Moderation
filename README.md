@@ -3,7 +3,7 @@
 Otomatik yetki atlama olsun, ceza yedikçe puan düşme olsun, işte ne bileyim kayıt olsun, invite olsun stat olsun hepsiyle puan eklenir yetki atlanır işte ne bekliyon daha aq
 
 ### Yetkileri maine girmeniz lazım.
-aias.js dosyasına girip alttaki örnek gibi doldurun.
+aias.js dosyasına girip alttaki örnek gibi doldurun. ( 1. yetki yazılmak 2. yetkiden yazmaya başlayın.)
 
 ```javascript
 client.ranks = [
@@ -14,7 +14,7 @@ client.ranks = [
  {role: "826798257131880504", coin: 7000},
  {role: "826798257131880505", coin: 8000},
  {role: "826798257131880506", coin: 9000},
- {role: "826798257140793386", coin : 12000},
+ {role: "826798257140793386", coin: 12000},
  {role: "826798257140793387", coin: 13000},
  {role: "826798257140793388", coin: 14000},
  {role: "826798257140793389", coin: 15000},
