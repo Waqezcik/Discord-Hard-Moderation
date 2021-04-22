@@ -1,5 +1,7 @@
 # Aias yapmış işte yetki atlama olsun ceza invite kayıt falan filan 
 
+UNUTMAYIN MODERASYON MONGOOSE URL'Sİ İLE YÖNETİM BOTUNUN MONGOOSE URL'Sİ AYNI OLMALIDIR! FARKLI OLURSA CEZA SİSTEMİ YÖNETİM BOTUNA ETKİ ETMEYECEKTİR!
+
 Otomatik yetki atlama olsun, ceza yedikçe puan düşme olsun, işte ne bileyim kayıt olsun, invite olsun stat olsun hepsiyle puan eklenir yetki atlanır işte ne bekliyon daha aq
 
 ### Yetkileri maine girmeniz lazım.
