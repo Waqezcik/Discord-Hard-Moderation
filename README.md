@@ -26,7 +26,7 @@ client.ranks = [
  {role: "826798257144332332", coin: 35000}
 ]
  ```
-
+#### 1. yetki id'si asla girilmez. Yukarda yetkileri girerken ilk 1. yetki değil 2. yetkinin idsini girin arkadaşlar.
 #### İşte bu gadarrrr
 
 
