@@ -37,3 +37,6 @@ client.ranks = [
 ![image](https://cdn.discordapp.com/attachments/815573100175032330/828257431174905896/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/815573100175032330/828257492052082728/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/815573100175032330/828257622930751528/unknown.png)
+
+Altyapı için TheArk arkadaşımıza teşekkür ederim <3
+
